@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<WhiteList>
+  <List>
+    <Url>file:///C:/xampp/htdocs/sampleTest.html</Url>
+    <ScriptExtract>&lt;script type="text/javascript"&gt;var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>file:///C:/xampp/htdocs/sampleTest.html</Url>
+    <ScriptExtract>&lt;script src="./Jericho HTML Parser_files/ga.js" type="text/javascript"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>file:///C:/xampp/htdocs/sampleTest.html</Url>
+    <ScriptExtract>&lt;script type="text/javascript"&gt;try {var pageTracker = _gat._getTracker("UA-8770474-1"); pageTracker._trackPageview();} catch(err) {}&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>file:///C:/xampp/htdocs/sampleTest.html</Url>
+    <ScriptExtract>&lt;script type="text/javascript"&gt;google_ad_client = "pub-7699443653217032"; /* 160x600 */ google_ad_slot = "5256287783"; google_ad_width = 160; google_ad_height = 600;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>file:///C:/xampp/htdocs/sampleTest.html</Url>
+    <ScriptExtract>&lt;script type="text/javascript" src="./Jericho HTML Parser_files/show_ads.js"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://support.lenovo.com/en_US/detail.page?LegacyDocID=m%253Ciframe%2520src=http://xssed.com%253E</Url>
+    <ScriptExtract>&lt;script type="text/javascript" src="/Resources/Javascript/jquery.min.js"&gt;&lt;/script&gt;&lt;!--ls:end[script]--&gt;&lt;!--ls:begin[script]--&gt;&lt;script type="text/javascript" src="/Resources/Javascript/jquery.xslt.js"&gt;&lt;/script&gt;&lt;!--ls:end[script]--&gt;&lt;!--ls:begin[script]--&gt;&lt;script type="text/javascript" src="/Resources/Javascript/AjaxRequest.class.js"&gt;&lt;/script&gt;&lt;!--ls:end[script]--&gt;&lt;!--ls:begin[script]--&gt;&lt;script type="text/javascript" src="/Resources/Javascript/ProductBrowser.class.js"&gt;&lt;/script&gt;&lt;!--ls:end[script]--&gt;&lt;!--ls:begin[script]--&gt;&lt;script type="text/javascript" src="/Resources/Javascript/GoogleAnalytics.js"&gt;&lt;/script&gt;&lt;!--ls:end[script]--&gt;&lt;!--ls:begin[script]--&gt;&lt;script type="text/javascript" src="/Resources/Javascript/Footer.js"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://support.lenovo.com/en_US/detail.page?LegacyDocID=m%253Ciframe%2520src=http://xssed.com%253E</Url>
+    <ScriptExtract>&lt;script src="/Resources/Javascript/MyDownloadsGlobal.js" type="text/javascript" language="Javascript"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://support.lenovo.com/en_US/detail.page?LegacyDocID=m%253Ciframe%2520src=http://xssed.com%253E</Url>
+    <ScriptExtract>&lt;script src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4d025d57680e2ce8" type="text/javascript"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://support.lenovo.com/en_US/detail.page?LegacyDocID=m%253Ciframe%2520src=http://xssed.com%253E</Url>
+    <ScriptExtract>&lt;script src="http://ipinvite.iperceptions.com/Invitations/Javascripts/ip_Layer_Invitation_902_PROD.aspx" type="text/javascript"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://support.lenovo.com/en_US/detail.page?LegacyDocID=m%253Ciframe%2520src=http://xssed.com%253E</Url>
+    <ScriptExtract>&lt;script type="text/javascript" src="/Resources/Javascript/jquery.min.js"&gt;&lt;/script&gt;&lt;!--ls:end[script]--&gt;&lt;!--ls:begin[script]--&gt;&lt;script type="text/javascript" src="/Resources/Javascript/jquery.xslt.js"&gt;&lt;/script&gt;&lt;!--ls:end[script]--&gt;&lt;!--ls:begin[script]--&gt;&lt;script type="text/javascript" src="/Resources/Javascript/AjaxRequest.class.js"&gt;&lt;/script&gt;&lt;!--ls:end[script]--&gt;&lt;!--ls:begin[script]--&gt;&lt;script type="text/javascript" src="/Resources/Javascript/ProductBrowser.class.js"&gt;&lt;/script&gt;&lt;!--ls:end[script]--&gt;&lt;!--ls:begin[script]--&gt;&lt;script type="text/javascript" src="/Resources/Javascript/GoogleAnalytics.js"&gt;&lt;/script&gt;&lt;!--ls:end[script]--&gt;&lt;!--ls:begin[script]--&gt;&lt;script type="text/javascript" src="/Resources/Javascript/Footer.js"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://support.lenovo.com/en_US/detail.page?LegacyDocID=m%253Ciframe%2520src=http://xssed.com%253E</Url>
+    <ScriptExtract>&lt;script src="/Resources/Javascript/MyDownloadsGlobal.js" type="text/javascript" language="Javascript"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://support.lenovo.com/en_US/detail.page?LegacyDocID=m%253Ciframe%2520src=http://xssed.com%253E</Url>
+    <ScriptExtract>&lt;script src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4d025d57680e2ce8" type="text/javascript"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://support.lenovo.com/en_US/detail.page?LegacyDocID=m%253Ciframe%2520src=http://xssed.com%253E</Url>
+    <ScriptExtract>&lt;script src="http://ipinvite.iperceptions.com/Invitations/Javascripts/ip_Layer_Invitation_902_PROD.aspx" type="text/javascript"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://www.metroflog.com/search.php?cx=partner-pub-7814731125428179:2tu1mep6cd2&amp;cof=FORID:10&amp;ie</Url>
+    <ScriptExtract>&lt;script src="http://static.metroflog.net/js/jquery.js"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://www.metroflog.com/search.php?cx=partner-pub-7814731125428179:2tu1mep6cd2&amp;cof=FORID:10&amp;ie</Url>
+    <ScriptExtract>&lt;script src="http://static.metroflog.net/js/lightbox.jquery.js"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://www.metroflog.com/search.php?cx=partner-pub-7814731125428179:2tu1mep6cd2&amp;cof=FORID:10&amp;ie</Url>
+    <ScriptExtract>&lt;script type="text/javascript" src="http://static.metroflog.net/js/jquery.js" charset="UTF-8"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://www.metroflog.com/search.php?cx=partner-pub-7814731125428179:2tu1mep6cd2&amp;cof=FORID:10&amp;ie</Url>
+    <ScriptExtract>&lt;script type="text/javascript" src="http://www.google.com/afsonline/show_afs_search.js"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://www.metroflog.com/search.php?cx=partner-pub-7814731125428179:2tu1mep6cd2&amp;cof=FORID:10&amp;ie</Url>
+    <ScriptExtract>&lt;script src="http://static.metroflog.net/js/jquery.js"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://www.metroflog.com/search.php?cx=partner-pub-7814731125428179:2tu1mep6cd2&amp;cof=FORID:10&amp;ie</Url>
+    <ScriptExtract>&lt;script src="http://static.metroflog.net/js/lightbox.jquery.js"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://www.metroflog.com/search.php?cx=partner-pub-7814731125428179:2tu1mep6cd2&amp;cof=FORID:10&amp;ie</Url>
+    <ScriptExtract>&lt;script type="text/javascript" src="http://static.metroflog.net/js/jquery.js" charset="UTF-8"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://www.metroflog.com/search.php?cx=partner-pub-7814731125428179:2tu1mep6cd2&amp;cof=FORID:10&amp;ie</Url>
+    <ScriptExtract>&lt;script type="text/javascript" src="http://www.google.com/afsonline/show_afs_search.js"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://www.metroflog.com/search.php?cx=partner-pub-7814731125428179:2tu1mep6cd2&amp;cof=FORID:10&amp;ie</Url>
+    <ScriptExtract>&lt;script src="http://static.metroflog.net/js/jquery.js"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://www.metroflog.com/search.php?cx=partner-pub-7814731125428179:2tu1mep6cd2&amp;cof=FORID:10&amp;ie</Url>
+    <ScriptExtract>&lt;script src="http://static.metroflog.net/js/lightbox.jquery.js"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://www.metroflog.com/search.php?cx=partner-pub-7814731125428179:2tu1mep6cd2&amp;cof=FORID:10&amp;ie</Url>
+    <ScriptExtract>&lt;script type="text/javascript" src="http://static.metroflog.net/js/jquery.js" charset="UTF-8"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://www.metroflog.com/search.php?cx=partner-pub-7814731125428179:2tu1mep6cd2&amp;cof=FORID:10&amp;ie</Url>
+    <ScriptExtract>&lt;script type="text/javascript" src="http://www.google.com/afsonline/show_afs_search.js"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://www.metroflog.com/search.php?cx=partner-pub-7814731125428179:2tu1mep6cd2&amp;cof=FORID:10&amp;ie</Url>
+    <ScriptExtract>&lt;script src="http://static.metroflog.net/js/jquery.js"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://www.metroflog.com/search.php?cx=partner-pub-7814731125428179:2tu1mep6cd2&amp;cof=FORID:10&amp;ie</Url>
+    <ScriptExtract>&lt;script src="http://static.metroflog.net/js/lightbox.jquery.js"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://www.metroflog.com/search.php?cx=partner-pub-7814731125428179:2tu1mep6cd2&amp;cof=FORID:10&amp;ie</Url>
+    <ScriptExtract>&lt;script type="text/javascript" src="http://static.metroflog.net/js/jquery.js" charset="UTF-8"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://www.metroflog.com/search.php?cx=partner-pub-7814731125428179:2tu1mep6cd2&amp;cof=FORID:10&amp;ie</Url>
+    <ScriptExtract>&lt;script type="text/javascript" src="http://www.google.com/afsonline/show_afs_search.js"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://www.google.co.in/</Url>
+    <ScriptExtract>&lt;script&gt;if(google.j.b)document.body.style.visibility='hidden';&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://www.google.co.in/</Url>
+    <ScriptExtract>&lt;script&gt;window.gbar&amp;&amp;gbar.eli&amp;&amp;gbar.eli()&lt;/script&gt;&lt;div id=gbw&gt;&lt;div id=gbz&gt;&lt;span class=gbtcb&gt;&lt;/span&gt;&lt;ol class=gbtc&gt;&lt;li class=gbt&gt;&lt;a onclick=gbar.logger.il(1,{t:1}); class="gbzt gbz0l gbp1" id=gb_1 href="http://www.google.co.in/webhp?hl=en&amp;tab=ww"&gt;&lt;span class=gbtb2&gt;&lt;/span&gt;&lt;span class=gbts&gt;Search&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class=gbt&gt;&lt;a onclick=gbar.qs(this);gbar.logger.il(1,{t:2}); class=gbzt id=gb_2 href="http://www.google.co.in/imghp?hl=en&amp;tab=wi"&gt;&lt;span class=gbtb2&gt;&lt;/span&gt;&lt;span class=gbts&gt;Images&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class=gbt&gt;&lt;a onclick=gbar.qs(this);gbar.logger.il(1,{t:8}); class=gbzt id=gb_8 href="http://maps.google.co.in/maps?hl=en&amp;tab=wl"&gt;&lt;span class=gbtb2&gt;&lt;/span&gt;&lt;span class=gbts&gt;Maps&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class=gbt&gt;&lt;a onclick=gbar.logger.il(1,{t:5}); class=gbzt id=gb_5 href="http://news.google.co.in/nwshp?hl=en&amp;tab=wn"&gt;&lt;span class=gbtb2&gt;&lt;/span&gt;&lt;span class=gbts&gt;News&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class=gbt&gt;&lt;a onclick=gbar.logger.il(1,{t:33}); class=gbzt id=gb_33 href="http://www.orkut.com/Main?tab=w0#Home"&gt;&lt;span class=gbtb2&gt;&lt;/span&gt;&lt;span class=gbts&gt;Orkut&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class=gbt&gt;&lt;a onclick=gbar.qs(this);gbar.logger.il(1,{t:51}); class=gbzt id=gb_51 href="http://translate.google.co.in/?hl=en&amp;tab=wT"&gt;&lt;span class=gbtb2&gt;&lt;/span&gt;&lt;span class=gbts&gt;Translate&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class=gbt&gt;&lt;a onclick=gbar.logger.il(1,{t:23}); class=gbzt id=gb_23 href="https://mail.google.com/mail/?tab=wm"&gt;&lt;span class=gbtb2&gt;&lt;/span&gt;&lt;span class=gbts&gt;Gmail&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class=gbt&gt;&lt;a class=gbgt id=gbztm href="http://www.google.co.in/intl/en/options/" onclick="gbar.tg(event,this)" aria-haspopup=true aria-owns=gbd&gt;&lt;span class=gbtb2&gt;&lt;/span&gt;&lt;span id=gbztms class="gbts gbtsa"&gt;&lt;span id=gbztms1&gt;More&lt;/span&gt;&lt;span class=gbma&gt;&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;div class=gbm id=gbd aria-owner=gbztm&gt;&lt;div class=gbmc&gt;&lt;ol class=gbmcc&gt;&lt;li class=gbmtc&gt;&lt;a onclick=gbar.qs(this);gbar.logger.il(1,{t:10}); class=gbmt id=gb_10 href="http://books.google.co.in/bkshp?hl=en&amp;tab=wp"&gt;Books&lt;/a&gt;&lt;/li&gt;&lt;li class=gbmtc&gt;&lt;a onclick=gbar.qs(this);gbar.logger.il(1,{t:9}); class=gbmt id=gb_9 href="http://scholar.google.co.in/schhp?hl=en&amp;tab=ws"&gt;Scholar&lt;/a&gt;&lt;/li&gt;&lt;li class=gbmtc&gt;&lt;a onclick=gbar.qs(this);gbar.logger.il(1,{t:13}); class=gbmt id=gb_13 href="http://www.google.co.in/blogsearch?hl=en&amp;tab=wb"&gt;Blogs&lt;/a&gt;&lt;/li&gt;&lt;li class=gbmtc&gt;&lt;div class="gbmt gbmh"&gt;&lt;/div&gt;&lt;/li&gt;&lt;li class=gbmtc&gt;&lt;a onclick=gbar.qs(this);gbar.logger.il(1,{t:36}); class=gbmt id=gb_36 href="http://www.youtube.com/?tab=w1&amp;gl=IN"&gt;YouTube&lt;/a&gt;&lt;/li&gt;&lt;li class=gbmtc&gt;&lt;a onclick=gbar.logger.il(1,{t:24}); class=gbmt id=gb_24 href="https://www.google.com/calendar?tab=wc"&gt;Calendar&lt;/a&gt;&lt;/li&gt;&lt;li class=gbmtc&gt;&lt;a onclick=gbar.qs(this);gbar.logger.il(1,{t:31}); class=gbmt id=gb_31 href="http://picasaweb.google.co.in/home?hl=en&amp;tab=wq"&gt;Photos&lt;/a&gt;&lt;/li&gt;&lt;li class=gbmtc&gt;&lt;a onclick=gbar.logger.il(1,{t:25}); class=gbmt id=gb_25 href="https://docs.google.com/?tab=wo"&gt;Documents&lt;/a&gt;&lt;/li&gt;&lt;li class=gbmtc&gt;&lt;a onclick=gbar.logger.il(1,{t:38}); class=gbmt id=gb_38 href="https://sites.google.com/?tab=w3"&gt;Sites&lt;/a&gt;&lt;/li&gt;&lt;li class=gbmtc&gt;&lt;a onclick=gbar.qs(this);gbar.logger.il(1,{t:3}); class=gbmt id=gb_3 href="http://groups.google.co.in/grphp?hl=en&amp;tab=wg"&gt;Groups&lt;/a&gt;&lt;/li&gt;&lt;li class=gbmtc&gt;&lt;a onclick=gbar.logger.il(1,{t:32}); class=gbmt id=gb_32 href="http://www.google.co.in/reader/?hl=en&amp;tab=wy"&gt;Reader&lt;/a&gt;&lt;/li&gt;&lt;li class=gbmtc&gt;&lt;div class="gbmt gbmh"&gt;&lt;/div&gt;&lt;/li&gt;&lt;li class=gbmtc&gt;&lt;a onclick=gbar.logger.il(1,{t:66}); href="http://www.google.co.in/intl/en/options/" class=gbmt&gt;Even more &amp;raquo;&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;div id=gbg&gt;&lt;h2 class=gbxx&gt;Account Options&lt;/h2&gt;&lt;span class=gbtcb&gt;&lt;/span&gt;&lt;ol class=gbtc&gt;&lt;li class=gbt&gt;&lt;a href="https://accounts.google.com/ServiceLogin?hl=en&amp;continue=http://www.google.co.in/" onclick="gbar.logger.il(9,{l:'i'})" id=gb_70 class=gbgt&gt;&lt;span class=gbtb2&gt;&lt;/span&gt;&lt;span id=gbgs4 class=gbts&gt;&lt;span id=gbi4s1&gt;Sign in&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="gbt gbtb"&gt;&lt;span class=gbts&gt;&lt;/span&gt;&lt;/li&gt;&lt;li class=gbt&gt;&lt;a class=gbgt id=gbg5 href="http://www.google.co.in/preferences?hl=en" title="Options" onclick="gbar.tg(event,this)" aria-haspopup=true aria-owns=gbd5&gt;&lt;span class=gbtb2&gt;&lt;/span&gt;&lt;span id=gbgs5 class=gbts&gt;&lt;span id=gbi5&gt;&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;div class=gbm id=gbd5 aria-owner=gbg5&gt;&lt;div class=gbmc&gt;&lt;ol id=gbom class=gbmcc&gt;&lt;li class="gbkc gbmtc"&gt;&lt;a  class=gbmt href="/preferences?hl=en"&gt;Search settings&lt;/a&gt;&lt;/li&gt;&lt;li class=gbmtc&gt;&lt;div class="gbmt gbmh"&gt;&lt;/div&gt;&lt;/li&gt;&lt;li class="gbe gbmtc"&gt;&lt;a  id=gmlas class=gbmt href="/advanced_search?hl=en"&gt;Advanced search&lt;/a&gt;&lt;/li&gt;&lt;li class="gbe gbmtc"&gt;&lt;a  class=gbmt href="/language_tools?hl=en"&gt;Language tools&lt;/a&gt;&lt;/li&gt;&lt;li class="gbe gbmtc"&gt;&lt;a  class=gbmt href="/url?sa=p&amp;pref=ig&amp;pval=3&amp;q=http://www.google.co.in/ig%3Fhl%3Den%26source%3Diglk&amp;usg=AFQjCNHe9Dv_h1zYL1VKlS7wKo_0Kg38dg"&gt;iGoogle&lt;/a&gt;&lt;/li&gt;&lt;li class=gbmtc&gt;&lt;div class="gbmt gbmh"&gt;&lt;/div&gt;&lt;/li&gt;&lt;li class="gbkp gbmtc"&gt;&lt;a class=gbmt href="http://www.google.co.in/history/optout?hl=en"&gt;Web History&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=gbx3&gt;&lt;/div&gt;&lt;div id=gbx4&gt;&lt;/div&gt;&lt;script&gt;window.gbar&amp;&amp;gbar.elp&amp;&amp;gbar.elp()&lt;/script&gt;&lt;/div&gt;&lt;/div&gt;&lt;span&gt;&lt;iframe name=wgjf style=display:none src="" onload="google.j.l()" onerror="google.j.e()"&gt;&lt;/iframe&gt;&lt;/span&gt;&lt;div id=xjsc&gt;&lt;/div&gt;&lt;textarea id=wgjc style=display:none&gt;&lt;/textarea&gt;&lt;textarea id=wwcache style=display:none&gt;&lt;/textarea&gt;&lt;textarea id=csi style=display:none&gt;&lt;/textarea&gt;&lt;textarea id=hcache style=display:none&gt;&lt;/textarea&gt;&lt;div id=searchform class=jhp&gt;&lt;script&gt;(function(){try{var s=document.getElementById('searchform');var w=document['body']&amp;&amp;document.body['offsetWidth'];if(s&amp;&amp;w&amp;&amp;w&gt;=1250){s.className+=' big';}}catch(e){}})()&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://www.google.co.in/</Url>
+    <ScriptExtract>&lt;script&gt;if(google.j.b)document.body.style.visibility='hidden';&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://www.google.co.in/</Url>
+    <ScriptExtract>&lt;script&gt;window.gbar&amp;&amp;gbar.eli&amp;&amp;gbar.eli()&lt;/script&gt;&lt;div id=gbw&gt;&lt;div id=gbz&gt;&lt;span class=gbtcb&gt;&lt;/span&gt;&lt;ol class=gbtc&gt;&lt;li class=gbt&gt;&lt;a onclick=gbar.logger.il(1,{t:1}); class="gbzt gbz0l gbp1" id=gb_1 href="http://www.google.co.in/webhp?hl=en&amp;tab=ww"&gt;&lt;span class=gbtb2&gt;&lt;/span&gt;&lt;span class=gbts&gt;Search&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class=gbt&gt;&lt;a onclick=gbar.qs(this);gbar.logger.il(1,{t:2}); class=gbzt id=gb_2 href="http://www.google.co.in/imghp?hl=en&amp;tab=wi"&gt;&lt;span class=gbtb2&gt;&lt;/span&gt;&lt;span class=gbts&gt;Images&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class=gbt&gt;&lt;a onclick=gbar.qs(this);gbar.logger.il(1,{t:8}); class=gbzt id=gb_8 href="http://maps.google.co.in/maps?hl=en&amp;tab=wl"&gt;&lt;span class=gbtb2&gt;&lt;/span&gt;&lt;span class=gbts&gt;Maps&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class=gbt&gt;&lt;a onclick=gbar.logger.il(1,{t:5}); class=gbzt id=gb_5 href="http://news.google.co.in/nwshp?hl=en&amp;tab=wn"&gt;&lt;span class=gbtb2&gt;&lt;/span&gt;&lt;span class=gbts&gt;News&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class=gbt&gt;&lt;a onclick=gbar.logger.il(1,{t:33}); class=gbzt id=gb_33 href="http://www.orkut.com/Main?tab=w0#Home"&gt;&lt;span class=gbtb2&gt;&lt;/span&gt;&lt;span class=gbts&gt;Orkut&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class=gbt&gt;&lt;a onclick=gbar.qs(this);gbar.logger.il(1,{t:51}); class=gbzt id=gb_51 href="http://translate.google.co.in/?hl=en&amp;tab=wT"&gt;&lt;span class=gbtb2&gt;&lt;/span&gt;&lt;span class=gbts&gt;Translate&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class=gbt&gt;&lt;a onclick=gbar.logger.il(1,{t:23}); class=gbzt id=gb_23 href="https://mail.google.com/mail/?tab=wm"&gt;&lt;span class=gbtb2&gt;&lt;/span&gt;&lt;span class=gbts&gt;Gmail&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class=gbt&gt;&lt;a class=gbgt id=gbztm href="http://www.google.co.in/intl/en/options/" onclick="gbar.tg(event,this)" aria-haspopup=true aria-owns=gbd&gt;&lt;span class=gbtb2&gt;&lt;/span&gt;&lt;span id=gbztms class="gbts gbtsa"&gt;&lt;span id=gbztms1&gt;More&lt;/span&gt;&lt;span class=gbma&gt;&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;div class=gbm id=gbd aria-owner=gbztm&gt;&lt;div class=gbmc&gt;&lt;ol class=gbmcc&gt;&lt;li class=gbmtc&gt;&lt;a onclick=gbar.qs(this);gbar.logger.il(1,{t:10}); class=gbmt id=gb_10 href="http://books.google.co.in/bkshp?hl=en&amp;tab=wp"&gt;Books&lt;/a&gt;&lt;/li&gt;&lt;li class=gbmtc&gt;&lt;a onclick=gbar.qs(this);gbar.logger.il(1,{t:9}); class=gbmt id=gb_9 href="http://scholar.google.co.in/schhp?hl=en&amp;tab=ws"&gt;Scholar&lt;/a&gt;&lt;/li&gt;&lt;li class=gbmtc&gt;&lt;a onclick=gbar.qs(this);gbar.logger.il(1,{t:13}); class=gbmt id=gb_13 href="http://www.google.co.in/blogsearch?hl=en&amp;tab=wb"&gt;Blogs&lt;/a&gt;&lt;/li&gt;&lt;li class=gbmtc&gt;&lt;div class="gbmt gbmh"&gt;&lt;/div&gt;&lt;/li&gt;&lt;li class=gbmtc&gt;&lt;a onclick=gbar.qs(this);gbar.logger.il(1,{t:36}); class=gbmt id=gb_36 href="http://www.youtube.com/?tab=w1&amp;gl=IN"&gt;YouTube&lt;/a&gt;&lt;/li&gt;&lt;li class=gbmtc&gt;&lt;a onclick=gbar.logger.il(1,{t:24}); class=gbmt id=gb_24 href="https://www.google.com/calendar?tab=wc"&gt;Calendar&lt;/a&gt;&lt;/li&gt;&lt;li class=gbmtc&gt;&lt;a onclick=gbar.qs(this);gbar.logger.il(1,{t:31}); class=gbmt id=gb_31 href="http://picasaweb.google.co.in/home?hl=en&amp;tab=wq"&gt;Photos&lt;/a&gt;&lt;/li&gt;&lt;li class=gbmtc&gt;&lt;a onclick=gbar.logger.il(1,{t:25}); class=gbmt id=gb_25 href="https://docs.google.com/?tab=wo"&gt;Documents&lt;/a&gt;&lt;/li&gt;&lt;li class=gbmtc&gt;&lt;a onclick=gbar.logger.il(1,{t:38}); class=gbmt id=gb_38 href="https://sites.google.com/?tab=w3"&gt;Sites&lt;/a&gt;&lt;/li&gt;&lt;li class=gbmtc&gt;&lt;a onclick=gbar.qs(this);gbar.logger.il(1,{t:3}); class=gbmt id=gb_3 href="http://groups.google.co.in/grphp?hl=en&amp;tab=wg"&gt;Groups&lt;/a&gt;&lt;/li&gt;&lt;li class=gbmtc&gt;&lt;a onclick=gbar.logger.il(1,{t:32}); class=gbmt id=gb_32 href="http://www.google.co.in/reader/?hl=en&amp;tab=wy"&gt;Reader&lt;/a&gt;&lt;/li&gt;&lt;li class=gbmtc&gt;&lt;div class="gbmt gbmh"&gt;&lt;/div&gt;&lt;/li&gt;&lt;li class=gbmtc&gt;&lt;a onclick=gbar.logger.il(1,{t:66}); href="http://www.google.co.in/intl/en/options/" class=gbmt&gt;Even more &amp;raquo;&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;div id=gbg&gt;&lt;h2 class=gbxx&gt;Account Options&lt;/h2&gt;&lt;span class=gbtcb&gt;&lt;/span&gt;&lt;ol class=gbtc&gt;&lt;li class=gbt&gt;&lt;a href="https://accounts.google.com/ServiceLogin?hl=en&amp;continue=http://www.google.co.in/" onclick="gbar.logger.il(9,{l:'i'})" id=gb_70 class=gbgt&gt;&lt;span class=gbtb2&gt;&lt;/span&gt;&lt;span id=gbgs4 class=gbts&gt;&lt;span id=gbi4s1&gt;Sign in&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class="gbt gbtb"&gt;&lt;span class=gbts&gt;&lt;/span&gt;&lt;/li&gt;&lt;li class=gbt&gt;&lt;a class=gbgt id=gbg5 href="http://www.google.co.in/preferences?hl=en" title="Options" onclick="gbar.tg(event,this)" aria-haspopup=true aria-owns=gbd5&gt;&lt;span class=gbtb2&gt;&lt;/span&gt;&lt;span id=gbgs5 class=gbts&gt;&lt;span id=gbi5&gt;&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;div class=gbm id=gbd5 aria-owner=gbg5&gt;&lt;div class=gbmc&gt;&lt;ol id=gbom class=gbmcc&gt;&lt;li class="gbkc gbmtc"&gt;&lt;a  class=gbmt href="/preferences?hl=en"&gt;Search settings&lt;/a&gt;&lt;/li&gt;&lt;li class=gbmtc&gt;&lt;div class="gbmt gbmh"&gt;&lt;/div&gt;&lt;/li&gt;&lt;li class="gbe gbmtc"&gt;&lt;a  id=gmlas class=gbmt href="/advanced_search?hl=en"&gt;Advanced search&lt;/a&gt;&lt;/li&gt;&lt;li class="gbe gbmtc"&gt;&lt;a  class=gbmt href="/language_tools?hl=en"&gt;Language tools&lt;/a&gt;&lt;/li&gt;&lt;li class="gbe gbmtc"&gt;&lt;a  class=gbmt href="/url?sa=p&amp;pref=ig&amp;pval=3&amp;q=http://www.google.co.in/ig%3Fhl%3Den%26source%3Diglk&amp;usg=AFQjCNHe9Dv_h1zYL1VKlS7wKo_0Kg38dg"&gt;iGoogle&lt;/a&gt;&lt;/li&gt;&lt;li class=gbmtc&gt;&lt;div class="gbmt gbmh"&gt;&lt;/div&gt;&lt;/li&gt;&lt;li class="gbkp gbmtc"&gt;&lt;a class=gbmt href="http://www.google.co.in/history/optout?hl=en"&gt;Web History&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;&lt;div id=gbx3&gt;&lt;/div&gt;&lt;div id=gbx4&gt;&lt;/div&gt;&lt;script&gt;window.gbar&amp;&amp;gbar.elp&amp;&amp;gbar.elp()&lt;/script&gt;&lt;/div&gt;&lt;/div&gt;&lt;span&gt;&lt;iframe name=wgjf style=display:none src="" onload="google.j.l()" onerror="google.j.e()"&gt;&lt;/iframe&gt;&lt;/span&gt;&lt;div id=xjsc&gt;&lt;/div&gt;&lt;textarea id=wgjc style=display:none&gt;&lt;/textarea&gt;&lt;textarea id=wwcache style=display:none&gt;&lt;/textarea&gt;&lt;textarea id=csi style=display:none&gt;&lt;/textarea&gt;&lt;textarea id=hcache style=display:none&gt;&lt;/textarea&gt;&lt;div id=searchform class=jhp&gt;&lt;script&gt;(function(){try{var s=document.getElementById('searchform');var w=document['body']&amp;&amp;document.body['offsetWidth'];if(s&amp;&amp;w&amp;&amp;w&gt;=1250){s.className+=' big';}}catch(e){}})()&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://www.google.co.in/</Url>
+    <ScriptExtract>&lt;script type="text/javascript"&gt;(function(){var sourceWebappPromoID=144002;var sourceWebappGroupID=5;var payloadType=5;google.promos.toast.init(sourceWebappPromoID,sourceWebappGroupID,payloadType);})();&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://www.google.co.in/</Url>
+    <ScriptExtract>&lt;script&gt;function _gjp(){!(location.hash&amp;&amp;_gjuc())&amp;&amp;setTimeout(_gjp,500);}google.j[1]={cc:[],co:['body','footer','xjsi'],pc:[],css:document.getElementById('gstyle').innerHTML,main:'&lt;span class=ctr-p id=body&gt;&lt;/span&gt;'+'&lt;span class=ctr-p id=footer&gt;&lt;/span&gt;'+'&lt;span id=xjsi&gt;&lt;/span&gt;',bl:['mngb','gb_']};&lt;/script&gt;&lt;script&gt;function wgjp(){var xjs=document.createElement('script');xjs.src='/extern_chrome/7f840204dafd1270.js';(document.getElementById('xjsd')||document.body).appendChild(xjs)};&lt;/script&gt;</ScriptExtract>
+  </List>
+
+  <List>
+    <Url>http://www.facebook.com/</Url>
+    <ScriptExtract>&lt;SCRIPT&gt;envFlush({"eagleEyeConfig":{"seed":"1XUY","sessionStorage":true}});CavalryLogger=false;window._script_path = "\/index.php";&lt;/SCRIPT&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://www.facebook.com/</Url>
+    <ScriptExtract>&lt;SCRIPT&gt;window.Bootloader &amp;&amp; Bootloader.done(["5EOyq"]);&lt;/SCRIPT&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://www.facebook.com/</Url>
+    <ScriptExtract>&lt;SCRIPT&gt;new (require("ServerJS"))().handle({"require":[["QuicklingPrelude"]]})&lt;/SCRIPT&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://www.facebook.com/</Url>
+    <ScriptExtract>&lt;SCRIPT type=text/javascript&gt;/*&lt;![CDATA[*/function si_cj(m){setTimeout(function(){new Image().src="http:\/\/error.facebook.com\/common\/scribe_endpoint.php?c=si_clickjacking&amp;t=4116"+"&amp;m="+m;},5000);}if(top!=self &amp;&amp; !false){try{if(parent!=top){throw 1;}var si_cj_d=["apps.facebook.com","\/pages\/","apps.beta.facebook.com"];var href=top.location.href.toLowerCase();for(var i=0;i&lt;si_cj_d.length;i++){if (href.indexOf(si_cj_d[i])&gt;=0){throw 1;}}si_cj("3 ");}catch(e){si_cj("1 \t");window.document.write("\u003Cstyle&gt;body * {display:none !important;}\u003C\/style&gt;\u003Ca href=\"#\" onclick=\"top.location.href=window.location.href\" style=\"display:block !important;padding:10px\"&gt;\u003Ci class=\"img sp_46v94c sx_401f21\" style=\"display:block !important\"&gt;\u003C\/i&gt;Go to Facebook.com\u003C\/a&gt;");/*yyd73p-y*/}}/*]]&gt;*/&lt;/SCRIPT&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://www.facebook.com/</Url>
+    <ScriptExtract>&lt;SCRIPT&gt;var big_pipe = new BigPipe({"lid":0,"rrEnabled":1,"forceFinish":true,"delay":0,"jsEarlier":0});&lt;/SCRIPT&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://www.facebook.com/</Url>
+    <ScriptExtract>&lt;SCRIPT&gt;big_pipe.onPageletArrive({"phase":0,"id":"first_response","is_last":true,"css":["wLpeQ","QFwsk","VuNPD"],"js":["1Bv0A","5eDoK"]});&lt;/SCRIPT&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://www.facebook.com/</Url>
+    <ScriptExtract>&lt;SCRIPT&gt;big_pipe.onPageletArrive({"phase":1,"id":"","is_last":true,"the_end":true,"css":["wLpeQ","QFwsk","VuNPD"],"js":["1Bv0A","5eDoK"],"tti_phase":1});&lt;/SCRIPT&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://site1.way2sms.com/content/index.html</Url>
+    <ScriptExtract>&lt;script type="text/javascript" src="http://images.way2sms.com/js2/browserdetect.js"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://site1.way2sms.com/content/index.html</Url>
+    <ScriptExtract>&lt;script type="text/javascript" src="http://images.way2sms.com/js2/browserdetect.js"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://site1.way2sms.com/content/index.html</Url>
+    <ScriptExtract>&lt;script language="JavaScript" src="http://d8.zedo.com/jsc/d8/fo.js"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://site1.way2sms.com/content/index.html</Url>
+    <ScriptExtract>&lt;script type="text/javascript" src="http://images.way2sms.com/js2/browserdetect.js"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://site1.way2sms.com/content/index.html</Url>
+    <ScriptExtract>&lt;script language="JavaScript" src="http://d8.zedo.com/jsc/d8/fo.js"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://site1.way2sms.com/content/index.html</Url>
+    <ScriptExtract>&lt;script type="text/javascript" src="http://images.way2sms.com/js2/browserdetect.js"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://site1.way2sms.com/content/index.html</Url>
+    <ScriptExtract>&lt;script language="JavaScript" src="http://d8.zedo.com/jsc/d8/fo.js"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://site1.way2sms.com/content/index.html</Url>
+    <ScriptExtract>&lt;script type="text/javascript" src="http://images.way2sms.com/js2/browserdetect.js"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://site1.way2sms.com/content/index.html</Url>
+    <ScriptExtract>&lt;script language="JavaScript" src="http://d8.zedo.com/jsc/d8/fo.js"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://site1.way2sms.com/content/index.html</Url>
+    <ScriptExtract>&lt;script type="text/javascript" src="http://images.way2sms.com/js2/browserdetect.js"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://site1.way2sms.com/content/index.html</Url>
+    <ScriptExtract>&lt;script language="JavaScript" src="http://d8.zedo.com/jsc/d8/fo.js"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://site1.way2sms.com/content/index.html</Url>
+    <ScriptExtract>&lt;script type="text/javascript" src="http://images.way2sms.com/js2/browserdetect.js"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://site1.way2sms.com/content/index.html</Url>
+    <ScriptExtract>&lt;script language="JavaScript" src="http://d8.zedo.com/jsc/d8/fo.js"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://site1.way2sms.com/content/index.html</Url>
+    <ScriptExtract>&lt;script type="text/javascript" src="http://images.way2sms.com/js2/browserdetect.js"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://site1.way2sms.com/content/index.html</Url>
+    <ScriptExtract>&lt;script language="JavaScript" src="http://d8.zedo.com/jsc/d8/fo.js"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://in.yahoo.com/?p=us</Url>
+    <ScriptExtract>&lt;script&gt;document.cookie="FPCK2=AgBPez0QAHe+EABzcBAALIwQAG7q;domain=in.yahoo.com;expires=Thu, 03 May 2012 06:10:22 GMT";&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://in.yahoo.com/?p=us</Url>
+    <ScriptExtract>&lt;script&gt;OnloadCache.disable();&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://in.yahoo.com/?p=us</Url>
+    <ScriptExtract>&lt;script type="text/javascript" src="http://l.yimg.com/zz/combo?nn/lib/metro/g/uicontrib/yui/yui_3.4.1.js"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://in.yahoo.com/?p=us</Url>
+    <ScriptExtract>&lt;script&gt;document.cookie="FPCK2=AgBPez0QAHe+EABzcBAALIwQAG7q;domain=in.yahoo.com;expires=Thu, 03 May 2012 06:10:22 GMT";&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://in.yahoo.com/?p=us</Url>
+    <ScriptExtract>&lt;script&gt;OnloadCache.disable();&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://in.yahoo.com/?p=us</Url>
+    <ScriptExtract>&lt;script type="text/javascript" src="http://l.yimg.com/zz/combo?nn/lib/metro/g/uicontrib/yui/yui_3.4.1.js"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://in.yahoo.com/?p=us</Url>
+    <ScriptExtract>&lt;script&gt;document.cookie="FPCK2=AgBPez0QAHe+EABzcBAALIwQAG7q;domain=in.yahoo.com;expires=Thu, 03 May 2012 06:10:22 GMT";&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://in.yahoo.com/?p=us</Url>
+    <ScriptExtract>&lt;script&gt;OnloadCache.disable();&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://in.yahoo.com/?p=us</Url>
+    <ScriptExtract>&lt;script type="text/javascript" src="http://l.yimg.com/zz/combo?nn/lib/metro/g/uicontrib/yui/yui_3.4.1.js"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://in.yahoo.com/?p=us</Url>
+    <ScriptExtract>&lt;script&gt;document.cookie="FPCK2=AgBPez0QAHe+EABzcBAALIwQAG7q;domain=in.yahoo.com;expires=Thu, 03 May 2012 06:10:22 GMT";&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://in.yahoo.com/?p=us</Url>
+    <ScriptExtract>&lt;script&gt;OnloadCache.disable();&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://in.yahoo.com/?p=us</Url>
+    <ScriptExtract>&lt;script type="text/javascript" src="http://l.yimg.com/zz/combo?nn/lib/metro/g/uicontrib/yui/yui_3.4.1.js"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+</WhiteList>

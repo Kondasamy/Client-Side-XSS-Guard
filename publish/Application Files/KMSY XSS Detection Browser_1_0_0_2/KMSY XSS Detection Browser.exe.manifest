@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="KMSY XSS Detection Browser.exe" version="1.0.0.2" publicKeyToken="d8f88f10bc41c1f1" language="neutral" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="Files-Web-File.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="KMSY XSS Detection Browser" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="KMSY XSS Detection Browser.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Data.SqlServerCe" version="3.5.1.0" publicKeyToken="89845DCD8080CC91" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="KMSY XSS Detection Browser.exe" size="382976">
+      <assemblyIdentity name="KMSY XSS Detection Browser" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>Hbhj6wn3egkPzTRQG6lapLB7i9E=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Browser.ico" size="237219">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>D6WiwYLM5viZXuob3iKhlW5eerI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Files-Web-File.ico" size="169599">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>TkfkbP3XMg5iCSKL1b14tMQfs+Q=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="GreyList.sdf" size="86016" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>ihOsMSVJH1ZOa1Wbw0APS2sOrjw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="KMSY XSS Detection Browser.exe.config" size="1817">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>A00U8r5G+yafU/1bVG981hTb92A=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\7.png" size="74669">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>OA//gvYy84uMVTaupIO9NESm1QI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Arrow Right.png" size="45991">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>OJf66QPK2rb5lRVBmWfTpV1kvoc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\back2.png" size="724">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>sNLR3OoNu3wYPh4b3hzda7cjmTI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Home.png" size="18283">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>bIS8zB+Zbf57Sg8eqAvRXRx5/C8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\refresh.png" size="6029">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Md1CXaW8Lrv5gvva79kcUotExkA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\stop1.png" size="6926">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>DZj0skGGVWb0urQSrajjSpFSOPE=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=SUPERPAULINS-PC\SUPER PAULINS" issuerKeyHash="d05721d0b38fa2609303aaa4f852bcda8ffce1ec" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>zfFaCATxM4MWKQ7nOb2OtVi9LsI=</DigestValue></Reference></SignedInfo><SignatureValue>YI7UPOMNZ7i+RiJme/MfTHnS5k7Jiw9wxFJPuP+7zDGf4avj27OEkLddsB/vf7OEj2blMIIHN5UiZeIcff2ThSqUizFKJFJReFkukb/WdMgSs7+7xaOmw2uehqhJciwoDAuTMMVFsBFWo+UZEuN3RnIoXXy18MZ3xDy0lquTqIo=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>9uohfW0nqfDlZBj7x2d64lnQADnv6skrkWKaFB7qWG12VHLSVVFp0iYHLpGc53Q/a+IKRLYl7psXvuj+cZS3hxzsnc2cUwGh9xuzCUmfpBakqjZ822Ni2sEX4rbaKmExM6mThzvK4njh6GCaXN7PyEcP2Syk/q1JJcZRiK9vOu8=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="c22ebd58b58ebd39e70e29168333f104085af1cd" Description="" Url=""><as:assemblyIdentity name="KMSY XSS Detection Browser.exe" version="1.0.0.2" publicKeyToken="d8f88f10bc41c1f1" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=SUPERPAULINS-PC\SUPER PAULINS</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>ET5305sqIb+YRZES6yj0WqTYCIA=</DigestValue></Reference></SignedInfo><SignatureValue>5hEANdXL+rOpcbNKFf+8J+TF2c8NzR5RHdhK1+oj0l6s0LHZVGSwn/tn/WiQtd9MImW6l8rVBFqD1F3PhKOF21oCMEqbPnnLDf0ogVNl2cq0bC1sfmBYZmqzWmVEiSB0MBDK0voi8bnJk7A5Ohr7LdsViMabD+qJob+7pmQ/B7k=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>9uohfW0nqfDlZBj7x2d64lnQADnv6skrkWKaFB7qWG12VHLSVVFp0iYHLpGc53Q/a+IKRLYl7psXvuj+cZS3hxzsnc2cUwGh9xuzCUmfpBakqjZ822Ni2sEX4rbaKmExM6mThzvK4njh6GCaXN7PyEcP2Syk/q1JJcZRiK9vOu8=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIICDTCCAXagAwIBAgIQLK3s0+Jk+pdJuJ2byBhwQzANBgkqhkiG9w0BAQUFADBFMUMwQQYDVQQDHjoAUwBVAFAARQBSAFAAQQBVAEwASQBOAFMALQBQAEMAXABTAFUAUABFAFIAIABQAEEAVQBMAEkATgBTMB4XDTEyMDMyNjAxNDQyM1oXDTEzMDMyNjA3NDQyM1owRTFDMEEGA1UEAx46AFMAVQBQAEUAUgBQAEEAVQBMAEkATgBTAC0AUABDAFwAUwBVAFAARQBSACAAUABBAFUATABJAE4AUzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA9uohfW0nqfDlZBj7x2d64lnQADnv6skrkWKaFB7qWG12VHLSVVFp0iYHLpGc53Q/a+IKRLYl7psXvuj+cZS3hxzsnc2cUwGh9xuzCUmfpBakqjZ822Ni2sEX4rbaKmExM6mThzvK4njh6GCaXN7PyEcP2Syk/q1JJcZRiK9vOu8CAwEAATANBgkqhkiG9w0BAQUFAAOBgQC/J7uTOQAbR0TM8ecasA2nHCTdUW8hFD11wdjglLMStwEsySHAZCZXH3n+xJI7/K6DRCSmuPf6DEknbmeSB5l9AbUlXsTPRcLb66mFzcG5Be4h2PuLHWjaEOz6S6i7nvw5d9/2oZOFt5Tbm2I4m9N1arY/Kpzp8dEfD6FrZlA+iQ==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

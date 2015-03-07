@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ScriptCount>
+  <List>
+    <Url>http://www.google.co.in/</Url>
+    <Count>7</Count>
+  </List>
+  <List>
+    <Url>
+      http://www.nic.ba/stream/press/index.php/%27%22%3E%3Cscript%3Ealert%28%22securitylab.ir%22%29;%3C/script%3E
+    </Url>
+    <Count>1</Count>
+  </List>
+  <List>
+    <Url>http://www.way2sms.com/</Url>
+    <Count>3</Count>
+  </List>
+  <List>
+    <Url> http://sfdoccentral.symantec.com/admin/contact_us.php </Url>
+    <Count>1</Count>
+  </List>
+  <List>
+    <Url>http://www.rutv.ru/?d=0'%3E%3Cscript%3Ealert(document.cookie)%3C/script%3E </Url>
+    <Count>250</Count>
+  </List>
+  <List>
+    <Url>
+      https://uyeler.mynet.com/index/pwdremind_byemail.jsp?u=<script>alert("HEYYO OFFICIAL")</script>
+    </Url>
+    <Count>5</Count>
+  </List>
+  <List>
+    <Url>
+      http://twitter.com/
+    </Url>
+    <Count>10</Count>
+  </List>
+  <List>
+    <Url>http://lcci.com.pk/dir_search_result4.php </Url>
+    <Count>2</Count>
+  </List>
+  <List>
+    <Url>http://www.archive.org/account/login.php</Url>
+    <Count>3</Count>
+  </List>
+  <List>
+    <Url>http://www.facebook.com/</Url>
+    <Count>7</Count>
+  </List>
+</ScriptCount>

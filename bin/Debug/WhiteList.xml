@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<BlackList>
+  <List>
+    <Script_id>1</Script_id>
+    <Url>http://hackingexpose.blogspot.in/2009/03/hacked-innitnuffnangcom-prone-to-xss.html</Url>
+    <ScriptExtract>&lt;script runat=server&gt;void searchBtn _Click(object sender, EventArgs e) ( Response.Write(HttpUtility.HtmlEncode(inputTxt.Text)); } &lt;/script&gt; </ScriptExtract>
+  </List>
+  <List>
+    <Script_id>2</Script_id>
+    <Url>http://hackingexpose.blogspot.in</Url>
+    <ScriptExtract>&lt;script&gt;nbmnbmnbmnbmb&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Script_id>3</Script_id>
+    <Url>http://hackingexpose.blogspot.in/2009/03</Url>
+    <ScriptExtract>&lt;script&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Script_id>4</Script_id>
+    <Url>http://hackingexpose.blogspot.in/2009</Url>
+    <ScriptExtract>&lt;script&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+</BlackList>

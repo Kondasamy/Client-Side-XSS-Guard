@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<BlackList>
+  <List>
+     <Url>http://www.archive.org/account/login.php</Url>
+     <ScriptExtract>&lt;script type="text/javascript" src="http://www.archive.org/includes/jquery-1.6.1.js"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://www.archive.org/account/login.php</Url>
+    <ScriptExtract>&lt;script type="text/javascript" src="http://www.archive.org/includes/analytics.js?v=41677"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://www.archive.org/account/login.php</Url>
+    <ScriptExtract>&lt;script&gt;alert(document.cookie)&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://www.archive.org/account/login.php</Url>
+    <ScriptExtract>&lt;script type="text/javascript"&gt; if(window.archive_analytics) { window.archive_analytics.values['server_ms'] = 980; window.archive_analytics.values['server_name'] = "www29.us.archive.org"}; &lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>
+      https://uyeler.mynet.com/index/pwdremind_byemail.jsp?u=<script>alert("HEYYO OFFICIAL")</script>
+    </Url>
+    <ScriptExtract>
+      <script type="text/javascript" src="/newcommons/uyl/HandFuyeler.js"></script>
+    </ScriptExtract>
+  </List>
+  <List>
+    <Url>
+      https://uyeler.mynet.com/index/pwdremind_byemail.jsp?u=<script>alert("HEYYO OFFICIAL")</script>
+    </Url>
+    <ScriptExtract>
+      <script>alert("HEYYO OFFICIAL")</script>
+      
+    </ScriptExtract>
+  </List>
+  <List>
+    <Url>
+      https://uyeler.mynet.com/index/pwdremind_byemail.jsp?u=<script>alert("HEYYO OFFICIAL")</script>
+    </Url>
+    <ScriptExtract>
+      <script>alert("HEYYO OFFICIAL")</script>
+
+    </ScriptExtract>
+  </List>
+  <List>
+    <Url>
+      https://uyeler.mynet.com/index/pwdremind_byemail.jsp?u=<script>alert("HEYYO OFFICIAL")</script>
+    </Url>
+    <ScriptExtract>
+      <script language="JavaScript">showFooter();</script>
+     
+    </ScriptExtract>
+  </List>
+  <List>
+    <Url>
+      https://uyeler.mynet.com/index/pwdremind_byemail.jsp?u=<script>alert("HEYYO OFFICIAL")</script>
+    </Url>
+    <ScriptExtract>
+      <script type="text/javascript" src="https://uyeler.mynet.com/newcommons/mynet-global.js?v=2"></script>
+    </ScriptExtract>
+  </List>
+  <List>
+    <Url> http://www.rutv.ru/?d=0'%3E%3Cscript%3Ealert(document.cookie)%3C/script%3E </Url>
+    <ScriptExtract>
+      <script src="http://stg.odnoklassniki.ru/share/odkl_share.js" type="text/javascript" ></script>
+    </ScriptExtract>
+  </List>
+   <List>
+    <Url>http://www.rutv.ru/?d=0'%3E%3Cscript%3Ealert(document.cookie)%3C/script%3E</Url>
+    <ScriptExtract>
+      <script>alert(document.cookie)</script>
+    </ScriptExtract>
+  </List>
+  <List>
+    <Url>http://caloriecount.about.com/cc/search2.php?searchpro=&lt;body onload=alert(1)&gt;&amp;search_type=foods</Url>
+    <ScriptExtract>&lt;script type="text/javascript" src="http://ccakamai.about.com/include/js/globalccjs.js?v=1333048310"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://caloriecount.about.com/cc/search2.php?searchpro=&lt;body onload=alert(1)&gt;&amp;search_type=foods</Url>
+    <ScriptExtract>&lt;script type="text/javascript" src="http://ccakamai.about.com/include/js/bootcamp.js?v=1333048310"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://caloriecount.about.com/cc/search2.php?searchpro=&lt;body onload=alert(1)&gt;&amp;search_type=foods</Url>
+    <ScriptExtract>&lt;script type="text/javascript" src="http://www.calorie-count.com/calories/ccvisit.php?v=1333048310"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>
+      http://people.w3.org/rishida/utils/subtags/index.php?find='%22%3E%3C%3Cscript%3Ealert(1)%3C/script%3E%3Esubmit=Find
+    </Url>
+    <ScriptExtract>&lt;script type="text/javascript" src="functions.js"&gt;//&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>
+      http://people.w3.org/rishida/utils/subtags/index.php?find='%22%3E%3C%3Cscript%3Ealert(1)%3C/script%3E%3Esubmit=Find
+    </Url>
+    <ScriptExtract>&lt;script&gt;alert(1)&lt;/script&gt;</ScriptExtract>
+  </List>
+    <List>
+    <Url>
+      http://goodtimes.ndtv.com/video/video.aspx?id=52733">'><script>
+        alert(/Hey do you know that it is
+        boring T.T/)
+      </script>
+    </Url>
+    <ScriptExtract>&lt;script language="javascript" type="text/javascript" src="bgimage.js"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>
+      http://goodtimes.ndtv.com/video/video.aspx?id=52733">'><script>
+        alert(/Hey do you know that it is
+        boring T.T/)
+      </script>
+    </Url>
+    <ScriptExtract>&lt;script type="text/javascript"&gt;var _sf_startpt=(new Date()).getTime()&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>
+      http://goodtimes.ndtv.com/video/video.aspx?id=52733">'><script>
+        alert(/Hey do you know that it is
+        boring T.T/)
+      </script>
+    </Url>
+    <ScriptExtract>&lt;script language="javascript" src="/New/js/newheaderscript.js" type="text/javascript"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>
+      http://goodtimes.ndtv.com/video/video.aspx?id=52733">'><script>
+        alert(/Hey do you know that it is
+        boring T.T/)
+      </script>
+    </Url>
+    <ScriptExtract>&lt;script language="javascript" src="/New/js/headerscript.js" type="text/javascript"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>
+      http://goodtimes.ndtv.com/video/video.aspx?id=52733">'><script>
+        alert(/Hey do you know that it is
+        boring T.T/)
+      </script>
+    </Url>
+    <ScriptExtract>&lt;script type="text/javascript" src="http://www.ndtv.com/headerimage.js"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>
+      http://goodtimes.ndtv.com/video/video.aspx?id=52733">'><script>
+        alert(/Hey do you know that it is
+        boring T.T/)
+      </script>
+    </Url>
+    <ScriptExtract>&lt;script language="JavaScript" src="http://d2.zedo.com/jsc/d2/fo.js"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>
+      http://goodtimes.ndtv.com/video/video.aspx?id=52733">'><script>
+        alert(/Hey do you know that it is
+        boring T.T/)
+      </script>/</Url>
+    <ScriptExtract>&lt;script&gt;alert(/Hey do you know that it is boring T.T/)&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>
+      http://goodtimes.ndtv.com/video/video.aspx?id=52733">'><script>
+        alert(/Hey do you know that it is
+        boring T.T/)
+      </script>
+    </Url>
+    <ScriptExtract>&lt;script&gt;alert(/Hey do you know that it is boring T.T/)&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>
+      http://goodtimes.ndtv.com/video/video.aspx?id=52733">'><script>
+        alert(/Hey do you know that it is
+        boring T.T/)
+      </script>
+    </Url>
+    <ScriptExtract>&lt;script type="text/javascript" src="http://cdn.socialtwist.com/200812044079/script.js"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>
+      http://goodtimes.ndtv.com/video/video.aspx?id=52733">'><script>
+        alert(/Hey do you know that it is
+        boring T.T/)
+      </script>
+    </Url>
+    <ScriptExtract>&lt;script&gt;alert(/Hey do you know that it is boring T.T/)&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>
+      http://goodtimes.ndtv.com/video/video.aspx?id=52733">'><script>
+        alert(/Hey do you know that it is
+        boring T.T/)
+      </script>
+    </Url>
+    <ScriptExtract>&lt;script language="JavaScript" src="http://d2.zedo.com/jsc/d2/fo.js"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>
+      http://goodtimes.ndtv.com/video/video.aspx?id=52733">'><script>
+        alert(/Hey do you know that it is
+        boring T.T/)
+      </script>
+    </Url>
+    <ScriptExtract>&lt;script src='http://cdn.wibiya.com/Loaders/Loader_36598.js' type='text/javascript'&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>
+      http://goodtimes.ndtv.com/video/video.aspx?id=52733">'><script>
+        alert(/Hey do you know that it is
+        boring T.T/)
+      </script>
+    </Url>
+    <ScriptExtract>&lt;script language="JavaScript" type="text/javascript" src="/js/jquery-1.3.2.min.js"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>
+      http://goodtimes.ndtv.com/video/video.aspx?id=52733">'><script>
+        alert(/Hey do you know that it is
+        boring T.T/)
+      </script>
+    </Url>
+    <ScriptExtract>&lt;script language="JavaScript" type="text/javascript" src="/js/copypaste.js"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://lcci.com.pk/dir_search_result4.php</Url>
+    <ScriptExtract>&lt;script type="text/javascript" language="JavaScript1.2" src="stmenu.js"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://lcci.com.pk/dir_search_result4.php</Url>
+    <ScriptExtract>&lt;script&gt;alert('Xssed By Pierre')&lt;/script&gt;</ScriptExtract>
+  </List>
+ 
+   <List>
+    <Url>http://www.nic.ba/stream/press/index.php/%27%22%3E%3Cscript%3Ealert%28%22securitylab.ir%22%29;%3C/script%3E</Url>
+    <ScriptExtract>&lt;script&gt;alert("securitylab.ir");&lt;/script&gt;?sta=3&amp;pid=118'&gt;&lt;img src='../images/strelica.gif' align='absmiddle' alt='puna vijest' border='0'&gt;&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td &gt;&lt;img src='../images/blank.gif' height='3'&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td background='../images/poll_spacer.gif'&gt;&lt;img src='../images/blank.gif' height='5'&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td &gt;&lt;img src='../images/blank.gif' height='3'&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;table width='326' cellpadding='0' cellspacing='0'&gt;&lt;tr&gt;&lt;td&gt;&lt;img src='../images/blank.gif' height='5'&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;table width='100%' cellpadding='0' cellspacing='0'&gt;&lt;tr&gt;&lt;td align='left' valign='top' width='100%'&gt;&lt;span class = 'naslovManjiSmedji'&gt;Obavje�tenje&lt;/span&gt;&lt;br&gt;&lt;img src='../images/blank.gif' height='5' width='1'&gt;&lt;br&gt;&lt;span class='textSmedji'&gt;Sarajevo,&amp;nbsp;1.6.2010.&lt;/span&gt;&lt;br&gt;&lt;img src='../images/blank.gif' height='5' width='1'&gt;&lt;br&gt;&lt;div align='justify'&gt;&lt;span class='textNormal'&gt;Obavje�tavamo korisnike da je Univerzitetski tele-informati�ki centar UTIC, u sklopu svog trajnog opredjeljenja ka unapre�enju svojih osnovnih servisa,  dana 01.06.2010. godine implementirao novu hardversku- softversku platformu za obezbje�enje rada primarnog i sekundarnog  DNS servera.&amp;nbsp;&lt;a href='/stream/press/index.php/'"&gt;&lt;script&gt;alert("securitylab.ir");&lt;/script&gt;?sta=3&amp;pid=117'&gt;&lt;img src='../images/strelica.gif' align='absmiddle' alt='puna vijest' border='0'&gt;&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td &gt;&lt;img src='../images/blank.gif' height='3'&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td background='../images/poll_spacer.gif'&gt;&lt;img src='../images/blank.gif' height='5'&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td &gt;&lt;img src='../images/blank.gif' height='3'&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;table width='326' cellpadding='0' cellspacing='0'&gt;&lt;tr&gt;&lt;td&gt;&lt;img src='../images/blank.gif' height='5'&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;table width='100%' cellpadding='0' cellspacing='0'&gt;&lt;tr&gt;&lt;td align='left' valign='top' width='100%'&gt;&lt;span class = 'naslovManjiSmedji'&gt;UTIC Live Support&lt;/span&gt;&lt;br&gt;&lt;img src='../images/blank.gif' height='5' width='1'&gt;&lt;br&gt;&lt;span class='textSmedji'&gt;Sarajevo,&amp;nbsp;25.1.2010.&lt;/span&gt;&lt;br&gt;&lt;img src='../images/blank.gif' height='5' width='1'&gt;&lt;br&gt;&lt;div align='justify'&gt;&lt;span class='textNormal'&gt;&lt;script src="http://portal.isss.ba/podrska/livesupport/CuteSoft_Client/CuteChat//Support-Image-Button.js.aspx"&gt;&lt;/script&gt;&amp;nbsp;&lt;a href='/stream/press/index.php/'"&gt;&lt;script&gt;alert("securitylab.ir");&lt;/script&gt;?sta=3&amp;pid=95'&gt;&lt;img src='../images/strelica.gif' align='absmiddle' alt='puna vijest' border='0'&gt;&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td &gt;&lt;img src='../images/blank.gif' height='3'&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td background='../images/poll_spacer.gif'&gt;&lt;img src='../images/blank.gif' height='5'&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td &gt;&lt;img src='../images/blank.gif' height='3'&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;table width='326' cellpadding='0' cellspacing='0'&gt;&lt;tr&gt;&lt;td&gt;&lt;img src='../images/blank.gif' height='5'&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;table width='100%' cellpadding='0' cellspacing='0'&gt;&lt;tr&gt;&lt;td align='left' valign='top' width='100%'&gt;&lt;span class = 'naslovManjiSmedji'&gt;Registriran desethiljaditi korisnik bosanskohercegova�ke .ba domene&lt;/span&gt;&lt;br&gt;&lt;img src='../images/blank.gif' height='5' width='1'&gt;&lt;br&gt;&lt;span class='textSmedji'&gt;Sarajevo,&amp;nbsp;25.1.2010.&lt;/span&gt;&lt;br&gt;&lt;img src='../images/blank.gif' height='5' width='1'&gt;&lt;br&gt;&lt;div align='justify'&gt;&lt;span class='textNormal'&gt;U ponedjeljak 11.01.2010. godine registriran je desethiljaditi korisnik bosanskohercegova�ke internetske domene .ba. To postignu�e pokazuje kako je .ba kod o�ito pridobio naklonost javnosti: sve ve�i broj korisnika Interneta prihvata potrebu i prednosti  virtualnog predstavljanja pod dr�avnim domenom Bosne i Hercegovine. &amp;nbsp;&lt;a href='/stream/press/index.php/'"&gt;&lt;script&gt;alert("securitylab.ir");&lt;/script&gt;?sta=3&amp;pid=113'&gt;&lt;img src='../images/strelica.gif' align='absmiddle' alt='puna vijest' border='0'&gt;&lt;/a&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td &gt;&lt;img src='../images/blank.gif' height='3'&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td background='../images/poll_spacer.gif'&gt;&lt;img src='../images/blank.gif' height='5'&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td &gt;&lt;img src='../images/blank.gif' height='3'&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;table width='326' cellpadding='0' cellspacing='0'&gt;&lt;tr&gt;&lt;td&gt;&lt;img src='../images/blank.gif' height='5'&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;table width='100%' cellpadding='0' cellspacing='0'&gt;&lt;tr&gt;&lt;td align='left' valign='top' width='100%'&gt;&lt;span class = 'naslovManjiSmedji'&gt;Obavje�tenje za korisnike UTIC-ovih usluga&lt;/span&gt;&lt;br&gt;&lt;img src='../images/blank.gif' height='5' width='1'&gt;&lt;br&gt;&lt;span class='textSmedji'&gt;Sarajevo,&amp;nbsp;2.5.2009.&lt;/span&gt;&lt;br&gt;&lt;img src='../images/blank.gif' height='5' width='1'&gt;&lt;br&gt;&lt;div align='justify'&gt;&lt;span class='textNormal'&gt;Obavje�tavamo korisnike UTIC-ovih servisa da je tokom 02.05.2010 dolazilo do povremenih prekida u radu uzrokovanih veoma jakim napadima tipa DDoS (distributed denial-of-service attack).&amp;nbsp;&lt;a href='/stream/press/index.php/'"&gt;&lt;script&gt;alert("securitylab.ir");&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://support.lenovo.com/en_US/detail.page?LegacyDocID=m%253Ciframe%2520src=http://xssed.com%253E</Url>
+    <ScriptExtract>&lt;script type="text/javascript" language="JavaScript" src="http://shop.lenovo.com/SEUILibrary/js/common/SystemMessage.js" &gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://support.lenovo.com/en_US/detail.page?LegacyDocID=m%253Ciframe%2520src=http://xssed.com%253E</Url>
+    <ScriptExtract>&lt;script type="text/javascript" src="http://shop.lenovo.com/SEUILibrary/hightech-portal/js/commonScripts/NavTop.js"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  <List>
+    <Url>http://support.lenovo.com/en_US/detail.page?LegacyDocID=m%253Ciframe%2520src=http://xssed.com%253E</Url>
+    <ScriptExtract>&lt;script language="JavaScript" type="text/javascript" src="http://download.lenovo.com/lenovo/content/sc/s_code.js"&gt;&lt;/script&gt;</ScriptExtract>
+  </List>
+  
+  <List>
+    <Url>
+      http://adspecs.yahoo.fr/wp-content/plugins/spectacular/ajax.php
+    </Url>
+    <ScriptExtract>&lt;Script&gt;alert(document.cookie);&lt;/Script&gt;</ScriptExtract>
+  </List>
+  </BlackList>
