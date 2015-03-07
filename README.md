@@ -53,6 +53,7 @@ The following terminologies are used in the algorithm,
 * BL: Blacklist
 * GL: Greylist
 
+![XSS Algorithm Flow](https://cloud.githubusercontent.com/assets/5390252/6542083/0562e1ba-c514-11e4-8cf6-58b1ee286b61.jpg)
 
 The XSS guard algorithm works as follows. Initially the WhiteList, BlackList and GreyList are set to empty. Then manually some known scripts of both white and black type are stored in the database. The algorithm refers to all the webpages based on the scripts they contain, it checks the scripts with the whitelisted and blacklisted scripts and it judges the website on the basis of number of scripts matches with white and black list sites. If the numbers of scripts matched with WhiteList are more, then we add that site to the WhiteList. If the numbers of scripts matched with BlackList are more, then we add that site to the BlackList. If there are equal numbers of scripts matched with both white and black list, then we add that site to the new list named GreyList, which is left un-judged. After a few entries of new websites, the GreyList will be examined manually. And based on the result we list the website accordingly.
 
